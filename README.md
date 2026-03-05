@@ -1,5 +1,5 @@
 
-#EdgePulse: AI-Driven Smart Energy Optimization System
+# EdgePulse: AI-Driven Smart Energy Optimization System
 
 EdgePulse is an intelligent energy management system that uses Artificial Intelligence and edge computing to optimize energy usage in homes, buildings, and industrial environments. The system analyzes real-time data from sensors and devices to make smart decisions that reduce energy waste, lower costs, and improve efficiency.
 
